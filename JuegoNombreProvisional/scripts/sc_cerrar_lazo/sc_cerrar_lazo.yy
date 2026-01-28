@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"sc_cerrar_lazo",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"sc_cerrar_lazo",
+  "parent":{
+    "name":"JuegoNombreProvisional",
+    "path":"JuegoNombreProvisional.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
