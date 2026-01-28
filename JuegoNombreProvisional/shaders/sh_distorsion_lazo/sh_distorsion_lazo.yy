@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"sh_distorsion_lazo",
+  "name":"sh_distorsion_lazo",
+  "parent":{
+    "name":"JuegoNombreProvisional",
+    "path":"JuegoNombreProvisional.yyp",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}
