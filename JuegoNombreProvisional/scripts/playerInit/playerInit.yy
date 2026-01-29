@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"sc_cerrar_lazo",
+  "%Name":"playerInit",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"sc_cerrar_lazo",
+  "name":"playerInit",
   "parent":{
     "name":"Scripts",
     "path":"folders/Scripts.yy",

@@ -1,16 +1,4 @@
 {
-<<<<<<< Updated upstream
-  "FolderOrderSettings":[],
-  "ResourceOrderSettings":[
-    {"name":"obj_control_lazos","order":4,"path":"objects/obj_control_lazos/obj_control_lazos.yy",},
-    {"name":"obj_control_musica","order":12,"path":"objects/obj_control_musica/obj_control_musica.yy",},
-    {"name":"obj_test","order":3,"path":"objects/obj_test/obj_test.yy",},
-    {"name":"sc_cerrar_lazo","order":9,"path":"scripts/sc_cerrar_lazo/sc_cerrar_lazo.yy",},
-    {"name":"sc_generar_superficie_lazo","order":10,"path":"scripts/sc_generar_superficie_lazo/sc_generar_superficie_lazo.yy",},
-    {"name":"sh_distorsion_lazo","order":11,"path":"shaders/sh_distorsion_lazo/sh_distorsion_lazo.yy",},
-    {"name":"snd_barroco","order":7,"path":"sounds/snd_barroco/snd_barroco.yy",},
-    {"name":"spr_test","order":2,"path":"sprites/spr_test/spr_test.yy",},
-=======
   "FolderOrderSettings":[
     {"name":"Animations","order":16,"path":"folders/Animations.yy",},
     {"name":"Audio","order":17,"path":"folders/Audio.yy",},
@@ -48,6 +36,5 @@
     {"name":"spr_ui_panel","order":4,"path":"sprites/spr_ui_panel/spr_ui_panel.yy",},
     {"name":"spr_wall","order":2,"path":"sprites/spr_wall/spr_wall.yy",},
     {"name":"spr_woodbox","order":9,"path":"sprites/spr_woodbox/spr_woodbox.yy",},
->>>>>>> Stashed changes
   ],
 }
