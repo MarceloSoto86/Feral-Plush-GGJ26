@@ -3,8 +3,8 @@
   "%Name":"sh_distorsion_lazo",
   "name":"sh_distorsion_lazo",
   "parent":{
-    "name":"JuegoNombreProvisional",
-    "path":"JuegoNombreProvisional.yyp",
+    "name":"Shaders",
+    "path":"folders/Shaders.yy",
   },
   "resourceType":"GMShader",
   "resourceVersion":"2.0",

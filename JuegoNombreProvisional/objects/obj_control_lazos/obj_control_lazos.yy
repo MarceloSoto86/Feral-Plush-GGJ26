@@ -11,8 +11,8 @@
   "name":"obj_control_lazos",
   "overriddenProperties":[],
   "parent":{
-    "name":"JuegoNombreProvisional",
-    "path":"JuegoNombreProvisional.yyp",
+    "name":"Objects",
+    "path":"folders/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
