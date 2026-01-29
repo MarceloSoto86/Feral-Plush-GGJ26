@@ -2,16 +2,17 @@ function playerInit(){
 //Movimiento
 
 moveDir = 0;
-moveSpd = 5; 
+moveSpd = 8; 
 xspd = 0;
-yspd = 0;
+yspd = 1;
 move_x = 0;
 move_y = 0;
+image_speed = 0;
 
 //Saltando
 
 grav = .275;
-termVel = 4;
+termVel = 5;
 jspd = -10
 can_jump = true;
 

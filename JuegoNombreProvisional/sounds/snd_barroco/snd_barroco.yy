@@ -10,7 +10,7 @@
   "compression":0,
   "compressionQuality":4,
   "conversionMode":0,
-  "duration":36.152042,
+  "duration":36.05422,
   "exportDir":"",
   "name":"snd_barroco",
   "parent":{
@@ -21,6 +21,6 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_barroco.wav",
-  "volume":0.8,
+  "soundFile":"snd_barroco.mp3",
+  "volume":0.85,
 }
