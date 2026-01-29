@@ -39,6 +39,7 @@
     {"name":"inst_169B28E0","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_E8D54FE","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_3A2979F4","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_65B4A94E","path":"rooms/Room1/Room1.yy",},
   ],
   "isDnd":false,
   "layers":[
