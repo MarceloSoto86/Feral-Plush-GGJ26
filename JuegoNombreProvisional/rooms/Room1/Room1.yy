@@ -9,6 +9,17 @@
     {"name":"inst_34B13FB2","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_197641A5","path":"rooms/Room1/Room1.yy",},
     {"name":"inst_4FC3F7F1","path":"rooms/Room1/Room1.yy",},
+<<<<<<< Updated upstream
+=======
+    {"name":"inst_6D88661F","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_2EA2C837","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_29E67A00","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_18DF87D2","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_24234BCD","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_287B859A","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_59542D3A","path":"rooms/Room1/Room1.yy",},
+    {"name":"inst_65B4A94E","path":"rooms/Room1/Room1.yy",},
+>>>>>>> Stashed changes
   ],
   "isDnd":false,
   "layers":[
